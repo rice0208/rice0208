@@ -8,4 +8,3 @@
 - ⚡ Fun fact: Do you know I have a classmate here? 🙃🙃🙃
 
 [![rice0208's github stats](https://github-readme-stats.vercel.app/api?username=rice0208)](https://github.com/rice0208)
-[![rice0208's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rice0208)](https://github.com/rice0208)
