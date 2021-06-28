@@ -7,4 +7,4 @@
 - 📩 Contact me? Try riceforever0208@outlook.com (my email address)
 - ⚡ Fun fact: Do you know I have a classmate here? 🙃🙃🙃
 
-[![rice0208's github stats](https://github-readme-stats.vercel.app/api?username=rice0208)](https://github.com/rice0208)
+[![rice0208's github stats](https://github-readme-stats.vercel.app/api?username=rice0208&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/rice0208)
